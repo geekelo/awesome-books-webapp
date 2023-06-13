@@ -153,7 +153,7 @@ p {
 
 .removeBtns {
   display: flex;
-}  
+}
 
 .addBtn {
   margin-right: -70%;
@@ -184,10 +184,10 @@ p {
 }
 
 .sectionDivider {
-    width: 10%;
-    background-color: var(--bookwrap-alternatebgcolor);
-    border: none;
-    height: 0.15rem;
+  width: 10%;
+  background-color: var(--bookwrap-alternatebgcolor);
+  border: none;
+  height: 0.15rem;
 }
 
 .sectionHeader {
@@ -196,7 +196,7 @@ p {
 }
 
 .contactDetails {
-    padding-top: 2rem;;
+  padding-top: 2rem;;
 }
 
 /* FORM STYLES */
@@ -223,7 +223,7 @@ footer {
 }
 
 .footerText {
-    font-size: 0.9rem;
+  font-size: 0.9rem;
 }
 
 /* ONLOAD VISIBILITY */
