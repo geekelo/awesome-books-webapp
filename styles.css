@@ -191,7 +191,7 @@ p {
 }
 
 .contactDetails {
-  padding-top: 2rem;;
+  padding-top: 2rem;
 }
 
 /* FORM STYLES */
@@ -223,7 +223,8 @@ footer {
 
 /* ONLOAD VISIBILITY */
 
-#form, #contactSection {
+#form,
+#contactSection {
   display: none;
 }
 
