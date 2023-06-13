@@ -60,17 +60,17 @@ After you're finished please remove all the comments and instructions.
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 The Book Record Keeper WebApp <a name="about-project"></a>
+# 📖 Awesome Books WebApp <a name="about-project"></a>
 
-**The Book Record Keeper website** is a user-friendly platform designed to help users keep track of their personal book collection. The website allows users to add and delete books from their record, making it convenient to manage their reading materials.
+**The Awesome Books WebApp ** is a user-friendly platform designed to help users keep track of their personal book collection. The website allows users to add and delete books from their record, making it convenient to manage their reading materials.
 
 Users can easily add books to their collection by providing the book's title and author information. The website stores this data and displays it in an organized manner, making it easy for users to browse through their book records. Each book entry includes details such as the title and author, providing users with a comprehensive overview of their collection.
 
 In addition to adding books, users can also remove books from their record when they no longer wish to track them. The website offers a simple deletion process, ensuring that users can effortlessly manage their collection over time.
 
-The Book Record Keeper website prioritizes user experience and provides a clean and intuitive interface. It offers a seamless process for adding and deleting books, empowering users to maintain an up-to-date and personalized record of their reading materials.
+The Awesome Books WebApp prioritizes user experience and provides a clean and intuitive interface. It offers a seamless process for adding and deleting books, empowering users to maintain an up-to-date and personalized record of their reading materials.
 
-With the Book Record Keeper website, users can effortlessly organize and track their book collection, ensuring they never lose sight of their favorite reads and enabling them to stay engaged with their literary adventures.
+With the Awesome Books WebApp, users can effortlessly organize and track their book collection, ensuring they never lose sight of their favorite reads and enabling them to stay engaged with their literary adventures.
 
 Head to the <a href="#live-demo">LIVE DEMO SECTIOON</a> for Live links and presentations
 
@@ -119,7 +119,7 @@ Head to the <a href="#live-demo">LIVE DEMO SECTIOON</a> for Live links and prese
 
 > View the live demo of this project by clicking the text below.
 
-- [See Live Demo](https://geekelo.github.io/book-record-keeper-website/)
+- [See Live Demo](https://geekelo.github.io/the-awesome-books-webapp/)
 <!-- - [First Presenation Video](https://www.loom.com/share/719c333faa524c5db6930878f33b809b) -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
