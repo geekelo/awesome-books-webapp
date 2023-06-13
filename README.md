@@ -72,7 +72,7 @@ The Awesome Books WebApp prioritizes user experience and provides a clean and in
 
 With the Awesome Books WebApp, users can effortlessly organize and track their book collection, ensuring they never lose sight of their favorite reads and enabling them to stay engaged with their literary adventures.
 
-Head to the <a href="#live-demo">LIVE DEMO SECTIOON</a> for Live links and presentations
+Head to the <a href="#live-demo">LIVE DEMO SECTION</a> for Live links and presentations
 
 ## 🛠 Built With <a name="built-with"></a>
 
