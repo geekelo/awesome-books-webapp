@@ -62,7 +62,7 @@ After you're finished please remove all the comments and instructions.
 
 # 📖 Awesome Books WebApp <a name="about-project"></a>
 
-**The Awesome Books WebApp ** is a user-friendly platform designed to help users keep track of their personal book collection. The website allows users to add and delete books from their record, making it convenient to manage their reading materials.
+**The Awesome Books WebApp** is a user-friendly platform designed to help users keep track of their personal book collection. The website allows users to add and delete books from their record, making it convenient to manage their reading materials.
 
 Users can easily add books to their collection by providing the book's title and author information. The website stores this data and displays it in an organized manner, making it easy for users to browse through their book records. Each book entry includes details such as the title and author, providing users with a comprehensive overview of their collection.
 
