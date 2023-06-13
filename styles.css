@@ -149,6 +149,9 @@ p {
   box-shadow: 2px 2px 5px 1px rgba(0, 0, 0, 0.2);
   font-weight: 800;
   color: var(--nav-bgcolor);
+  transition-property: opacity;
+  transition-duration: 0.4s;
+  transition-delay: 0.1s, 0.2s;
 }
 
 .removeBtns {
@@ -173,14 +176,6 @@ p {
 .addBtn:hover,
 #addNewInline:hover {
   opacity: 0.7;
-}
-
-.removeBtns,
-.addBtn,
-#addNewInline {
-  transition-property: opacity;
-  transition-duration: 0.4s;
-  transition-delay: 0.1s, 0.2s;
 }
 
 .sectionDivider {
@@ -234,7 +229,7 @@ footer {
 
 @media only screen and (max-width: 768px) {
   .displayContainers {
-    padding-top: 1rem;    
+    padding-top: 1rem;
   }
 
   .bookwraps {
@@ -242,7 +237,10 @@ footer {
     margin-bottom: 1rem;
   }
 
-  .bookTitles, .removeBtns, .bookAuthors, .contactContainer {
+  .bookTitles,
+  .removeBtns,
+  .bookAuthors,
+  .contactContainer {
     font-size: 0.9rem;
   }
 
