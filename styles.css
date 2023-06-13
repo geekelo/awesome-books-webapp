@@ -15,6 +15,7 @@ body {
   background-image: url("./media-library/bg-image.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  overflow: hidden;
 }
 
 p {
