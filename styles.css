@@ -2,11 +2,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500&display=swap');
 
 :root {
-  --nav-bgcolor:#422b73;
-  --display-container-bgcolor:#ece9f1;
-  --button-bgcolor:#ffba39;
-  --bookwrap-defaultbgcolor:#d9d4e3;
-  --bookwrap-alternatebgcolor:#c6bfd5;
+  --nav-bgcolor: #422b73;
+  --display-container-bgcolor: #ece9f1;
+  --button-bgcolor: #ffba39;
+  --bookwrap-defaultbgcolor: #d9d4e3;
+  --bookwrap-alternatebgcolor: #c6bfd5;
 }
 
 body {
@@ -133,7 +133,9 @@ p {
 
 /* BUTTONS STYLES */
 
-.addBtn, .removeBtns, #addNewInline {
+.addBtn,
+.removeBtns,
+#addNewInline {
   flex: 20%;
   display: flex;
   flex-direction: row;
@@ -167,11 +169,15 @@ p {
   color: var(--bookwrap-alternatebgcolor);
 }
 
-.removeBtns:hover, .addBtn:hover, #addNewInline:hover {
+.removeBtns:hover,
+.addBtn:hover,
+#addNewInline:hover {
   opacity: 0.7;
 }
 
-.removeBtns, .addBtn, #addNewInline {
+.removeBtns,
+.addBtn,
+#addNewInline {
   transition-property: opacity;
   transition-duration: 0.4s;
   transition-delay: 0.1s, 0.2s;
