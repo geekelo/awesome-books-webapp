@@ -1,12 +1,13 @@
+
 //create constuctor for book properties
-class Book {
+ class Book {
   constructor(title, author){
     this.title = title;
     this.author = author;
   }
 }
 
-class BookRecord {
+ class BookRecord {
   constructor(){
     this.books = [];
     this.booksContainer = document.querySelector('.booksContainer');
@@ -94,4 +95,5 @@ class BookRecord {
   }
 }
 
-const bookLIST = new BookRecord();
+ const bookLIST = new BookRecord();
+
