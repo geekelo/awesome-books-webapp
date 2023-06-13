@@ -79,6 +79,13 @@ Head to the <a href="#live-demo">LIVE DEMO SECTION</a> for Live links and presen
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
+  <summary>ES6</summary>
+  <ul>
+    <li><a href="https://hacks.mozilla.org/2015/04/es6-in-depth-an-introduction/">ES6 stands for ECMAScript 6. ECMAScript was created to standardize JavaScript, and ES6 is the 6th version of ECMAScript, it was published in 2015, and is also known as ECMAScript 2015.</a></li>
+  </ul>
+</details>
+
+<details>
   <summary>HTML</summary>
   <ul>
     <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content.</a></li>
@@ -119,7 +126,7 @@ Head to the <a href="#live-demo">LIVE DEMO SECTION</a> for Live links and presen
 
 > View the live demo of this project by clicking the text below.
 
-- [See Live Demo](https://geekelo.github.io/the-awesome-books-webapp/)
+- [See Live Demo](https://geekelo.github.io/awesome-books-webapp/)
 <!-- - [First Presenation Video](https://www.loom.com/share/719c333faa524c5db6930878f33b809b) -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -132,7 +139,7 @@ To get a local copy up and running, follow these steps.
 
 > Clone the repository
 ```
-git clone https://github.com/geekelo/gft-hackathon-webapp-project.git
+git clone https://github.com/geekelo/awesome-books-webapp.git
 ```
 > And you are ready to begin your project
 
