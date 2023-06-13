@@ -15,7 +15,6 @@ body {
   background-image: url("./media-library/bg-image.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  overflow: hidden;
 }
 
 p {
@@ -76,7 +75,7 @@ p {
   padding-bottom: 1rem;
   background-color: var(--display-container-bgcolor);
   width: 20%;
-  margin-left: 73%;
+  margin-left: 72.8%;
   border-top-left-radius: 3rem;
   border-bottom-left-radius: 3rem;
 }
@@ -232,6 +231,7 @@ footer {
 @media only screen and (max-width: 768px) {
   .displayContainers {
     padding-top: 1rem;
+    margin-bottom: 40%;
   }
 
   .bookwraps {
@@ -242,7 +242,8 @@ footer {
   .bookTitles,
   .removeBtns,
   .bookAuthors,
-  .contactContainer {
+  .contactContainer,
+  #addNewInline {
     font-size: 0.9rem;
   }
 
@@ -252,5 +253,19 @@ footer {
 
   .addBtn {
     margin-right: -35vw;
+  }
+
+  #addNewInline {
+    text-decoration: none;
+    width: 70%;
+  }
+
+  .dateDisplay {
+    width: 70%;
+    margin-left: 1rem;
+  }
+
+  footer {
+    text-align: center;
   }
 }
