@@ -230,10 +230,12 @@ footer {
   .displayContainers {
     padding-top: 1rem;    
   }
+
   .bookwraps {
     padding: 1rem;
     margin-bottom: 1rem;
-  }  
+  }
+
   .bookTitles, .removeBtns, .bookAuthors, .contactContainer {
     font-size: 0.9rem;
   }
