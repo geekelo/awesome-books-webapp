@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Awesome Books</title>
+    <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+    <!-- NAVIGATION AREA -->
+    <header>
+        <nav class="navSection">
+            <p class="logo">Awesome Books</p>
+            <ul cla class="navItemsContainer">
+                <li class="navItems"><a id="list" class="navTexts" href="javascript:void">Book List</a></li>
+                <li class="navItems"><a id="addNew" class="navTexts" href="javascript:void">Add new </a></li>
+                <li class="navItems"><a id="contact" class="navTexts" href="javascript:void">Contact </a></li>
+            </ul>
+        </nav>
+        <p class="dateDisplay"></p>
+    </header>
+
+    <!-- MAIN CONTENT AREA -->
+    <main class="mainContainer">
+
+         <!-- book list section -->
+        <Section id="bookSection" class="displayContainers">
+            <h2 class="sectionHeader">Awesome Books</h2>
+            <p id="defaultBooksMessage">No books to display!</p>
+            <div class="booksContainer">
+                <!-- javascript codes  -->
+            </div>
+            <hr class="sectionDivider">
+            <a id="addNewInline" href="javascript:void">Add a new book</a>
+        </section>
+        
+        <!-- form section -->
+        <form action="" method="" id="form" class="displayContainers">
+            <h2 class="sectionHeader">Add a New Book</h2>
+            <input type="text" id="title" value="" placeholder="Book Title">
+            <input type="text" id="author" value="" placeholder="Book Author">
+            <button class="addBtn" type="submit">Add Book</button>
+        </form>
+
+        <!-- conatct section -->
+        <section id="contactSection">
+            <div class="displayContainers">
+                <h2 class="sectionHeader">Contact Information</h2>
+                <hr class="sectionDivider">
+                <div class="contactDetails">
+                    <p>Do you have any questions or you just want to say "Hello"?</p>
+                    <p>You can reach out to us!</p>
+                    <ul>
+                      <li>Our Email: mail@mail.com</li>
+                      <li>Our Phone number: 04778998321</li>
+                      <li>Our Address: Streetname 22, 09667 City, Country</li>
+                    </ul>
+                </div>
+           </div>
+          </section>
+    </main>  
+    
+     <!-- FOOTER AREA -->
+    <footer class="navSection"> 
+        <p class="navTexts footerText">© AwesomeBooks 2023 - 2024 | All Rights Reserved</p>
+    </footer>
+    <script type="module" src="./modules/index.js"></script>
+</body>
+</html>
