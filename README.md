@@ -60,6 +60,8 @@ After you're finished please remove all the comments and instructions.
 
 <!-- PROJECT DESCRIPTION -->
 
+<img src="https://geekelo.us.to/wp-content/uploads/2023/08/Screenshot-2023-08-07-111347.png">
+
 # 📖 Awesome Books WebApp <a name="about-project"></a>
 
 **The Awesome Books WebApp** is a user-friendly platform designed to help users keep track of their personal book collection. The website allows users to add and delete books from their record, making it convenient to manage their reading materials.
