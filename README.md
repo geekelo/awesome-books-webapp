@@ -58,7 +58,9 @@ After you're finished please remove all the comments and instructions.
 
 <!-- PROJECT DESCRIPTION -->
 
-<img src="https://geekelo.us.to/wp-content/uploads/2023/08/Screenshot-2023-08-07-111347.png">
+<img src="https://geekelo.com.ng/wp-content/uploads/2023/08/Screenshot-2023-08-07-111347.png">
+
+
 
 # 📖 Awesome Books WebApp <a name="about-project"></a>
 
@@ -224,7 +226,6 @@ You can offer Contributions, submit an [issue](../../issues/), and make a featur
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> I would like to thank Microverse for inspiring this project
 > Fonts: [Google Fonts](https://fonts.google.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
